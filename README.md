@@ -1,4 +1,4 @@
-# Task Manager — CSO7024 Mid-Module Assessment starter
+# CSO7024 Task Manager Application Starter
 
 This is the starter application for the **CSO7024 DevOps** mid-module assessment.
 It is a small, working command-line task manager written in Python. Your job in
